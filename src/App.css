@@ -7,7 +7,7 @@
 body {
   background-image: url('./images/background.png');
   color: white;
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto , sans-serif;
 }
 
 header {
@@ -89,7 +89,7 @@ header h1 {
   border: solid 1px white;
   border-radius: 10px;
   color: white;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial , Helvetica , sans-serif;
   font-size: 25pt;
   font-weight: 400;
   margin: 60px auto 20px;
